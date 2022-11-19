@@ -8,7 +8,7 @@ printf("Please input a integer:"); // Yusuf'first edit
 scanf("%d", x);//Kerem's second edit
 if(x>0)
 printf("This integer is positive); 
-else 
+else//Kerem's third edit 
 printf("This integer is negative");//Kerem's third edit
 
 
