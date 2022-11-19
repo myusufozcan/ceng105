@@ -1,0 +1,8 @@
+#include <stdio.h> 
+ 
+int main(){ 
+ 
+printf("M.Yusuf Özcan başlattı."); 
+return 0; 
+ 
+}
