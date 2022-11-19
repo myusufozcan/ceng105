@@ -3,7 +3,7 @@
 int main(){ 
  
 printf("M.Yusuf Özcan başlattı.");  
-printf("Kerem is here");
+printf("Kerem is here");//first edit
 return 0; 
  
 }
