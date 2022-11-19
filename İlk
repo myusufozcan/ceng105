@@ -3,11 +3,13 @@
 int main(){ 
  int x;
 printf("M.Yusuf Özcan başlattı.");  
-printf("Kerem is here");//first edit
+printf("Kerem is here");//Kerem's first edit
 printf("Please input a integer:"); // Yusuf'first edit 
 scanf("%d", x);//Kerem's second edit
 if(x>0)
-printf("This integer is positive);
+printf("This integer is positive); 
+else 
+printf("This integer is negative");//Kerem's third edit
 
 
 return 0; 
