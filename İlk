@@ -4,7 +4,8 @@ int main(){
  int x;
 printf("M.Yusuf Özcan başlattı.");  
 printf("Kerem is here");//first edit
-printf("Please input a integer:");
+printf("Please input a integer:"); 
+scanf("%d", x);//Kerem's second edit
 
 return 0; 
  
