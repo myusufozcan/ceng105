@@ -6,11 +6,12 @@ printf("M.Yusuf Özcan başlattı.");
 printf("Kerem is here");//Kerem's first edit
 printf("Please input a integer:"); // Yusuf'first edit 
 scanf("%d", x);//Kerem's second edit
-printf("You put this are you sure?:%d",&x);
+printf("You put this are you sure?:%d",&x);// Yusuf's second first
 if(x>0)
 printf("This integer is positive); 
 else//Kerem's third edit 
 printf("This integer is negative");//Kerem's third edit
+printf("This code is over.");//Yusuf's third edit
 
 
 
